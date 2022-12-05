@@ -32,7 +32,7 @@ Connect the following pins with 3 wires:
 Tiny88 pin A5 SCL (clock) to HDMI pin 15<br>
 Tiny88 pin A4 SDA (data)  to HDMI pin 16<br>
 Tiny88 pin GND (ground)	  to HDMI pin 17	 
-
+<br><br>
 
 ### Background (Original Project Description)
 This project is a very simple emulator of an I2C flash for AVR microcontrollers,
@@ -56,7 +56,6 @@ additional interaction needed.
 [1]: https://www.exploitee.rs/index.php/FireFU_Exploit
 [2]: https://github.com/superna9999/linux/wiki/Amlogic-HDMI-Boot-Dongle
 <br><br>
-
 ### Acknowlegments
 Thank you to <a href="https://github.com/tchebb">Tom Hebb</a> for his AVR I2C emulator and for helping me to get it to run on the MH-ET Live Tiny88.
 
