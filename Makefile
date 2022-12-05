@@ -1,7 +1,7 @@
-MCU := atmega328p
+MCU := attiny88
 PROGPORT := /dev/ttyUSB0
 
-CC := avr-gcc
+CC := avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc
 CFLAGS := -mmcu=$(MCU) -Wall -Wextra -O2 -std=gnu11
 LDFLAGS := -mmcu=$(MCU)
 
