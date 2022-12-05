@@ -1,4 +1,4 @@
-## Guide to making an Amlogic HDMI recovery device using an MH-ET Live Tiny88
+### Guide to making an Amlogic HDMI recovery dongle with an MH-ET Live Tiny88
 
 To flash your <a href="https://forum.mhetlive.com/topic/47/mh-et-live-tiny88-16-0mhz">MH-ET Live Tiny88</a> with one of the two included compiled binaries, open a terminal window. Connect the Tiny88 to your computer and the red LED will blink to indicate it's ready to be flashed.
 
